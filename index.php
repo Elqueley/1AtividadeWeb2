@@ -9,7 +9,8 @@
 <body>
     <h1>Bem vindo</h1>
 
-    <a href="cadastrarcarro.php">Cadastro</a>
+    <a href="cadastrarcarro.php">Cadastrar Carro</a> </br> 
+    <a href="cadastrarmoto.php">Cadastrar Moto</a>
     
 </body>
 </html>
